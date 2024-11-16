@@ -5,7 +5,7 @@
    "id": "f8e6ab28-cc53-4913-85c1-e8a515c001cb",
    "metadata": {},
    "source": [
-    "# **PROYECTO**"
+    "# **PROYECTO**
    ]
   },
   {
